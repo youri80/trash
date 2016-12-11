@@ -1,0 +1,28 @@
+{
+  "name": "trash",
+  "version": "1.0.0",
+  "description": "Müllkalender für Echzell mit Amazon Echo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youri80/trash.git"
+  },
+  "keywords": [
+    "Alexa",
+    "Müll",
+    "Echzell",
+    "Müllkalender"
+  ],
+  "author": "Christian Lange",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youri80/trash/issues"
+  },
+  "homepage": "https://github.com/youri80/trash#readme",
+  "dependencies": {
+    "restify": "^4.3.0"
+  }
+}
